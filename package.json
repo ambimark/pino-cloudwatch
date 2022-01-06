@@ -1,5 +1,5 @@
 {
-  "name": "pino-cloudwatch",
+  "name": "@ambimark/pino-cloudwatch",
   "version": "0.7.1",
   "description": "CloudWatch Logs transport for pino",
   "main": "index.js",
@@ -19,13 +19,13 @@
   "author": "David Howell (david@dynamicmethods.com.au)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dbhowell/pino-cloudwatch/issues"
+    "url": "https://github.com/ambimark/pino-cloudwatch/issues"
   },
-  "homepage": "https://github.com/dbhowell/pino-cloudwatch#readme",
+  "homepage": "https://github.com/ambimark/pino-cloudwatch#readme",
   "repository": {
     "type": "git",
     "url": "https://github.com/ambimark/pino-cloudwatch.git",
-    "private": false
+    "private": true
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/",
